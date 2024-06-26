@@ -12,7 +12,7 @@ Developed by Grace Chen Abudi 👩🏽‍💻
 
 ## 🔎 Intro:
 
-Charts of expenses showcasing prices from sundry years.
+This is a practice project in React, showcasing Charts of expenses with prices from sundry years.
 
 ---
 
